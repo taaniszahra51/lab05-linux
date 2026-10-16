@@ -1,0 +1,17 @@
+total 64
+drwxr-x--- 10 taaniszahra51 taaniszahra51 4096 Oct 16 04:19 .
+drwxr-xr-x  3 root          root          4096 Sep 16 13:40 ..
+-rw-------  1 taaniszahra51 taaniszahra51 3052 Oct 10 09:55 .bash_history
+-rw-r--r--  1 taaniszahra51 taaniszahra51  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 taaniszahra51 taaniszahra51 3771 Feb 13  2026 .bashrc
+drwx------  2 taaniszahra51 taaniszahra51 4096 Sep 16 14:02 .cache
+-rw-rw-r--  1 taaniszahra51 taaniszahra51  168 Oct 10 06:58 .gitconfig
+-rw-------  1 taaniszahra51 taaniszahra51   20 Oct  9 03:38 .lesshst
+drwx------  3 taaniszahra51 taaniszahra51 4096 Oct 10 09:45 .local
+-rw-r--r--  1 taaniszahra51 taaniszahra51  807 Feb 13  2026 .profile
+drwx------  2 taaniszahra51 taaniszahra51 4096 Oct  8 17:59 .ssh
+drwxrwxr-x  3 taaniszahra51 taaniszahra51 4096 Oct 10 07:04 Assignment01
+drwxrwxr-x  3 taaniszahra51 taaniszahra51 4096 Oct  8 17:29 Gitea
+drwxrwxr-x  5 taaniszahra51 taaniszahra51 4096 Oct 16 04:20 lab05-linux
+drwxrwxr-x  2 taaniszahra51 taaniszahra51 4096 Oct 10 10:25 taaniszahra.github.io
+drwxrwxr-x  3 taaniszahra51 taaniszahra51 4096 Oct 10 10:34 taaniszahra51.github.io
