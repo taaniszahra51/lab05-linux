@@ -1,0 +1,17 @@
+2026-10-16T07:23:41.900924+00:00 ubuntu sudo: taaniszahra51 : TTY=/dev/tty1 ; PWD=/home/taaniszahra51 ; USER=root ; COMMAND=/usr/sbin/adduser lab05user
+2026-10-16T07:23:42.257467+00:00 ubuntu groupadd[5827]: group added to /etc/group: name=lab05user, GID=1001
+2026-10-16T07:23:42.262438+00:00 ubuntu groupadd[5827]: group added to /etc/gshadow: name=lab05user
+2026-10-16T07:23:42.264573+00:00 ubuntu groupadd[5827]: new group: name=lab05user, GID=1001
+2026-10-16T07:23:42.311447+00:00 ubuntu useradd[5832]: new user: name=lab05user, UID=1001, GID=1001, home=/home/lab05user, shell=/bin/bash, from=/dev/pts/0
+2026-10-16T07:40:29.894072+00:00 ubuntu passwd[5843]: pam_unix(passwd:chauthtok): password changed for lab05user
+2026-10-16T07:40:41.608163+00:00 ubuntu chfn[6100]: changed user 'lab05user' information
+2026-10-16T07:40:43.845320+00:00 ubuntu gpasswd[6107]: members of group users set by root to taaniszahra51,lab05user
+2026-10-16T07:48:57.437235+00:00 ubuntu su[6184]: (to lab05user) taaniszahra51 on tty1
+2026-10-16T07:48:57.444918+00:00 ubuntu su[6184]: pam_unix(su-l:session): session opened for user lab05user(uid=1001) by taaniszahra51(uid=1000)
+2026-10-16T07:50:51.735083+00:00 ubuntu su[6184]: pam_unix(su-l:session): session closed for user lab05user
+2026-10-16T07:51:56.207241+00:00 ubuntu sudo: taaniszahra51 : TTY=/dev/tty1 ; PWD=/home/taaniszahra51 ; USER=root ; COMMAND=/usr/sbin/adduser lab05user
+2026-10-16T07:53:21.659566+00:00 ubuntu su[6321]: (to lab05user) taaniszahra51 on tty1
+2026-10-16T07:53:21.663974+00:00 ubuntu su[6321]: pam_unix(su-l:session): session opened for user lab05user(uid=1001) by taaniszahra51(uid=1000)
+2026-10-16T07:54:05.006998+00:00 ubuntu su[6321]: pam_unix(su-l:session): session closed for user lab05user
+2026-10-16T07:55:00.491915+00:00 ubuntu sudo: taaniszahra51 : TTY=/dev/tty1 ; PWD=/home/taaniszahra51 ; USER=root ; COMMAND=/usr/bin/grep lab05user /var/log/auth.log
+2026-10-16T07:55:58.860389+00:00 ubuntu sudo: taaniszahra51 : TTY=/dev/tty1 ; PWD=/home/taaniszahra51 ; USER=root ; COMMAND=/usr/bin/grep lab05user /var/log/auth.log
